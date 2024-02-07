@@ -1,1 +1,100 @@
-
+{
+    "ProductsItem":[
+      {
+        "id": 1,
+        "title": "Red Sofa",
+        "description": "This is well designed and crafted product that will suits many needs, in terms of quality, craftmanship and asthetics.",
+        "price": 4999,
+        "ratings": 3.5,
+        "imgUrl": "https://www.godrejinterio.com/imagestore/B2C/56101502SD01291/56101502SD01291_A2_500x500.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Office Seat",
+        "description": "The Premium Thread Stitched Diamond Pattern Provides a Sophisticated Detail that Provides Additional Comfort.",
+        "price": 5083,
+        "ratings": 4,
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0044/1208/0217/files/BOLDEOFC_900x.jpg?v=1697607154"
+      },
+      {
+        "id": 3,
+        "title": "Bed",
+        "description": "Strong 18mm Engineered Wood Particle Board used; For bed base - Top 11mm MDF ; Bottom - MDF boards; The sheet has been designed specifically to be water resistant and withstand more uniform load",
+        "price": 13600,
+        "ratings": 3,
+        "imgUrl": "https://www.laura-james.co.uk/cdn/shop/files/Cavill_Grey_Bed_Beee_1250x.png?v=1682573324"
+      },
+      {
+        "id": 4,
+        "title": "Almirah",
+        "description": "With minimal attention to colours, materials, textures, and scale you can create stunning almirah designs for small bedrooms as well.",
+        "price": 9000,
+        "ratings": 4.5,
+        "imgUrl": "https://m.media-amazon.com/images/I/81NlEMfQRRL._AC_UF350,350_QL80_.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Fridge",
+        "description": "The effective anti-odour action of Active Deo keeps the refrigerator environment fresh and odour free.",
+        "price": 11000,
+        "ratings": 3.5,
+        "imgUrl": "https://whirlpoolindia.vtexassets.com/arquivos/ids/167347-800-auto?v=638240592404230000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 6,
+        "title": "LED TV",
+        "description": "additional 1 year Warranty on panel provided by the manufacturer,Supported Apps: YouTube, Netflix, Prime Video, Hotstar.",
+        "price": 7999,
+        "ratings": 2.5,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuln1CjV6OK5ZrAFYXzrhtqjmlR93hJ4W_Nw&usqp=CAU"
+      },
+      {
+        "id": 7,
+        "title": "Heater",
+        "description": "3 Heat Settings (400W/800W/1200W), 3 Bar Halogen Heater, Portable With Handle,Wide Angle, Oscillation, Safety Tip-Over Switch, Safety Mesh Grill",
+        "price": 899,
+        "ratings": 3,
+        "imgUrl": "https://5.imimg.com/data5/SELLER/Default/2020/9/BW/OA/PM/100256587/halogen-room-heater.png"
+      },
+     {
+        "id": 8,
+        "title": "Laptop",
+        "description": "10th Generation Intel Core i5 processor i5-1035G1 (1.0 GHz base frequency, up to 3.6 GHz with Intel Turbo Boost Technology, 6 MB cache, 4 cores).",
+        "price": 30000,
+        "ratings": 4,
+        "imgUrl": "https://m.media-amazon.com/images/I/61+r3+JstZL.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Mouse",
+        "description": "With optical tracking, this mouse offers precision, whether you're using a mouse pad or any other surface.",
+        "price": 499,
+        "ratings": 2,
+        "imgUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697623897/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/163439_dbxk8x.png"
+      },
+      {
+        "id": 10,
+        "title": "Key Board",
+        "description": "Magic Keyboard delivers a remarkably comfortable and precise typing experience.",
+        "price": 2000,
+        "ratings": 4,
+        "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MK2A3?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1628010471000"
+      },
+      {
+        "id": 11,
+        "title": "Mobile",
+        "description": "Reverse Charging: When your Y19 has juice to spare, turn it into a mobile power bank.",
+        "price": 18999,
+        "ratings": 4,
+        "imgUrl": "https://5.imimg.com/data5/SELLER/Default/2022/3/BK/TA/UG/148618475/vivo-y19-mobile-phones.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Watch",
+        "description": "Rolex, Performance and Prestige calculated in the New Oyester Perpetual Daytona Good Decent Looks chronograph model.",
+        "price": 7999,
+        "ratings": 4,
+        "imgUrl": "https://cdn.gintaa.com/offers/image/20230124/7jjqDgN6tGdRs6Ltvk9QRu/thumbs/4ivsrqnS11hrM227DOpeId_imagecropper1674568983837_400x400.jpg"
+      }
+    ]
+  }
